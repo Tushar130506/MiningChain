@@ -1,0 +1,43 @@
+# Compiled Java files
+*.class
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE folders
+.vscode/
+.idea/
+*.iml
+out/
+
+# Build folders
+target/
+bin/
+
+# Minecraft server junk (DO NOT UPLOAD)
+mcserver/
+world/
+world_nether/
+world_the_end/
+logs/
+cache/
+plugins/
+config/
+
+# Dependency jars (do not commit)
+spigot-api.jar
+paper.jar
+server.jar
+
+# Blockchain data files
+chain.txt
+balances.txt
+wallets.txt

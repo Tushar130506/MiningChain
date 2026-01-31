@@ -1,0 +1,40 @@
+name: MiningChain
+main: MiningChain.Main
+version: 5.0
+api-version: 1.21
+
+author: VibeCraft Team
+description: Minecraft Blockchain Mining Simulator
+
+commands:
+  balance:
+    description: Show your balance
+    usage: /balance
+
+  pay:
+    description: Send coins to another player
+    usage: /pay <player> <amount>
+
+  wallet:
+    description: Generate wallet address
+    usage: /wallet
+
+  nft:
+    description: Buy NFT pickaxe
+    usage: /nft
+
+  top:
+    description: Open leaderboard GUI
+    usage: /top
+
+  debug:
+    description: Toggle debug mode
+    usage: /debug
+
+  inspectchain:
+    description: Inspect last blockchain block
+    usage: /inspectchain
+
+  verifychain:
+    description: Verify blockchain integrity
+    usage: /verifychain
