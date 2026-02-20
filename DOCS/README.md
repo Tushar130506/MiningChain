@@ -191,13 +191,49 @@ You should see:
 
 ---
 
-## 🌐 Future Scope (Quai Network Integration)
+## 🌐 Future Scope (Blockchain Evolution)
+1. True Decentralization
 
-- Mining events → blockchain transactions
-- NFT pickaxes → smart contracts
-- Wallets → on-chain addresses
-- Ledger → on-chain storage  
+- Multi-node peer-to-peer architecture
+- Block propagation between independent server nodes
+- Longest-chain consensus rule
+- Fork detection and resolution
+- Simulation of majority (51%) attack scenarios
 
+2. Enhanced Consensus Mechanisms
+
+- Transition from simplified Proof-of-Work to adjustable difficulty retargeting
+- Mining race simulation between distributed nodes
+- Implementation of alternative consensus models (Proof-of-Stake simulation)
+- Validator-based block confirmation logic
+
+3. Merkle Tree & Transaction Layer
+
+- Structured transaction pool (mempool)
+- Merkle tree construction for block validation
+- Transaction hashing and inclusion proofs
+- Block header and body separation
+
+4. Cryptographic Improvements
+
+- Public/private key wallet system
+- Digital signatures for transaction validation
+- Address derivation from key pair
+- Secure hash chaining and tamper detection
+
+5. Hybrid On-Chain Anchoring
+
+- Periodic anchoring of in-game block hashes to a public blockchain
+- Smart contract–based NFT minting
+- On-chain verification of in-game transactions
+- Cross-chain compatibility experimentation
+
+6. Research & Experimental Extensions
+
+- Block time optimization experiments
+- Difficulty adjustment algorithm tuning
+- Network latency simulation
+- Byzantine fault tolerance modeling
 ---
 
 ## 🏁 Conclusion
